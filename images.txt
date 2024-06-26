@@ -1,6 +1,12 @@
 nginx
 postgres:15-alpine
 1panel/maxkb
+camunda/zeebe:8.5.2
+camunda/operate:8.5.2
+camunda/tasklist:8.5.2
+camunda/connectors-bundle:8.5.3
+docker.elastic.co/elasticsearch/elasticsearch:8.14.1
+docker.elastic.co/kibana/kibana:8.14.1
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
