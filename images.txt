@@ -27,3 +27,13 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+registry.cn-hongkong.aliyuncs.com/mall4j-images/mysql:8.0.35
+registry.cn-hongkong.aliyuncs.com/mall4j-images/minio:RELEASE.2024-04-18T19-09-19Z
+registry.cn-hongkong.aliyuncs.com/mall4j-images/redis:7.0
+registry.cn-hongkong.aliyuncs.com/mall4j-images/nacos-server:v2.3.2
+registry.cn-hongkong.aliyuncs.com/mall4j-images/seata-server:2.0.0
+registry.cn-hongkong.aliyuncs.com/mall4j-images/elasticsearch:7.17.21
+registry.cn-hongkong.aliyuncs.com/mall4j-images/canal-server:v1.1.7
+registry.cn-hongkong.aliyuncs.com/mall4j-images/rocketmq:5.2.0
+registry.cn-hongkong.aliyuncs.com/mall4j-images/rocketmq:5.2.0
+registry.cn-hongkong.aliyuncs.com/mall4j-images/rocketmq-dashboard:1.0.1
