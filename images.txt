@@ -1,3 +1,2 @@
 mongo:8.0
-nginx
 mysql:8.4.2
